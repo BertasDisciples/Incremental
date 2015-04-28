@@ -16,7 +16,7 @@ public class Hoagieactivity extends ActionBarActivity {
         setContentView(R.layout.activity_hoagieactivity);
     }
     public  void addScore() {
-        Score += 1;
+        R.id.Score += 1;
     }
 
     @Override
